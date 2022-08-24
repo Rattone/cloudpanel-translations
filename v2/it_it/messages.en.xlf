@@ -1176,7 +1176,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Per emettere un certificato Let's Encrypt è necessario un record DNS che punta a questo server.</target>
+                <target>Per emettere un certificato Let's Encrypt è necessario un record DNS che punti a questo server.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
